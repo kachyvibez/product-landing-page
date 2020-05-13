@@ -1,0 +1,40 @@
+#header-img {
+  top: 0px;
+
+}
+ body {
+   font-family: sans-serif;
+ }
+
+section {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.flex-container > div {
+  background-color: white;
+  width: 200px;
+  margin: 20px;
+  text-align: center;
+  line-height: 20px;
+  font-size: 20px
+}
+
+#buy-on-amazon {
+  background-color: gray;
+}
+
+.nav-link {
+  padding: 20px;
+  margin: 20px;
+}
+
+#header {
+  top: 0px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color: white;
+}
