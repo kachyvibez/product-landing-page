@@ -1,5 +1,5 @@
 #header-img {
-  top: 0px;
+
 
 }
  body {
@@ -29,12 +29,12 @@ section {
 }
 
 #header {
-  top: 0px;
+  top: 0;
 }
 
 .sticky {
   position: fixed;
-  top: 0px;
+  top: 0;
   width: 100%;
   background-color: white;
 }
